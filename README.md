@@ -53,20 +53,12 @@ Clone the repo:
 git clone https://github.com/yourusername/department-website.git
 cd department-website
 Install dependencies:
-
-bash
-Copy
-Edit
 npm install
 # or
 yarn install
 # or
 pnpm install
 Run the development server:
-
-bash
-Copy
-Edit
 npm run dev
 # or
 yarn dev
